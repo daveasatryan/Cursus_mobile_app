@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/home/dave/Flutter Apps/mobile-cross-platform-development/build/local_auth/intermediates/merged_res/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/home/dave/.gradle/caches/transforms-3/57f2c870b95b82616a275c4ada369caa/transformed/appcompat-1.2.0/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/home/dave/Flutter Apps/mobile-cross-platform-development/build/local_auth/intermediates/merged_res/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/home/dave/.gradle/caches/transforms-3/57f2c870b95b82616a275c4ada369caa/transformed/appcompat-1.2.0/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/home/dave/Flutter Apps/mobile-cross-platform-development/build/local_auth/intermediates/merged_res/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/home/dave/.gradle/caches/transforms-3/57f2c870b95b82616a275c4ada369caa/transformed/appcompat-1.2.0/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/home/dave/Flutter Apps/mobile-cross-platform-development/build/local_auth/intermediates/merged_res/debug/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/home/dave/.gradle/caches/transforms-3/57f2c870b95b82616a275c4ada369caa/transformed/appcompat-1.2.0/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/home/dave/Flutter Apps/mobile-cross-platform-development/build/local_auth/intermediates/merged_res/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/home/dave/.gradle/caches/transforms-3/57f2c870b95b82616a275c4ada369caa/transformed/appcompat-1.2.0/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/home/dave/Flutter Apps/mobile-cross-platform-development/build/local_auth/intermediates/merged_res/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/home/dave/.gradle/caches/transforms-3/57f2c870b95b82616a275c4ada369caa/transformed/appcompat-1.2.0/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/home/dave/Flutter Apps/mobile-cross-platform-development/build/local_auth/intermediates/merged_res/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/home/dave/.gradle/caches/transforms-3/57f2c870b95b82616a275c4ada369caa/transformed/appcompat-1.2.0/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/home/dave/Flutter Apps/mobile-cross-platform-development/build/local_auth/intermediates/merged_res/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/home/dave/.gradle/caches/transforms-3/57f2c870b95b82616a275c4ada369caa/transformed/appcompat-1.2.0/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/home/dave/Flutter Apps/mobile-cross-platform-development/build/local_auth/intermediates/merged_res/debug/color-v23/abc_tint_default.xml",
+        "source": "/home/dave/.gradle/caches/transforms-3/57f2c870b95b82616a275c4ada369caa/transformed/appcompat-1.2.0/res/color-v23/abc_tint_default.xml"
+    }
+]

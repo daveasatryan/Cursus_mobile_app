@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">706328138401-8dl9al03jv1nht58g0k6elmj1cebgnpd.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">706328138401</string>
+    <string name="google_api_key" translatable="false">AIzaSyAJrDTSy2dmsM1OnxUHsZqaGNxwyQT3XY8</string>
+    <string name="google_app_id" translatable="false">1:706328138401:android:54414e1592f20af67856e0</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAJrDTSy2dmsM1OnxUHsZqaGNxwyQT3XY8</string>
+    <string name="google_storage_bucket" translatable="false">cursuscare-14a1e.appspot.com</string>
+    <string name="project_id" translatable="false">cursuscare-14a1e</string>
+</resources>
